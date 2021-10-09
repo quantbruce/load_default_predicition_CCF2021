@@ -46,7 +46,7 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |1|简单加权融合了lgb/xgb/cat三个模型，保留了marriage/offspring特征|过拟合|0.88325465262|baseline_20211008_v1|mysub_20211008_2317_seed|
 |2|简单加权融合了lgb/cat两个模型，删除了marriage/offspring特征|过拟合|0.87402803179|baseline_20211008_v1|mysub_20211008_2330_seed|
-|3|只用了lgb模型, 删除了marriage/offspring特征|过拟合|0.86860578313|baseline_20211008_v1|mysub_20211008_2344_seed8828|
+|3|只用了lgb模型, 删除了marriage/offspring特征|过拟合|0.86860578313|baseline_20211008_v1|mysub_20211008_2344_seed|
 
 ### 2021.10.9
 
