@@ -1,6 +1,8 @@
+# 最终成绩**0.89786867**  69th in 3246 teams
+
 # 比赛全周期试验记录
 -------------------------------------------------------------
-队友：一叶之秋、AlvinAi96、Algor_Bruce <br>
+队友：Algor_Bruce、一叶之秋、AlvinAi96、 <br>
 整理者：Algor_Bruce <br>
 记录整理模板参考：https://github.com/AlvinAi96/serverless_prediction#readme
 
