@@ -5,7 +5,7 @@
 -------------------------------------------------------------
 队友：Algor_Bruce、一叶之秋、AlvinAi96、 <br>
 整理者：Algor_Bruce <br>
-记录整理模板参考：https://github.com/AlvinAi96/serverless_prediction#readme
+
 
 
 该比赛项目分为三大模块：数据探索性分析、数据预处理(含特征工程)、模型(调参及融合)
